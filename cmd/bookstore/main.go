@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "balin_tonybai_learning/internal/store"
 	"balin_tonybai_learning/server"
 	"balin_tonybai_learning/store/factory"
 	"context"
